@@ -45,7 +45,7 @@ function RegisterForm() {
             <FiArrowRight className="arrow-icon" />
           </button>
         </div>
-        <img src="./public/landscape.jfif" alt="Landscape" />
+        <img src="/landscape.jfif" alt="Landscape" />
         <h2>Welcome Back! Log in to your account</h2>
       </div>
 
